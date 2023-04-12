@@ -10,7 +10,7 @@ This is a test of a pathfinding algorithme.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python time library
+- Python `tkinter` library
+- Python `time` library
 ## Usage
 You can create a map by adding walls and the start and end points of the path, and then click on `Rechercher`.
